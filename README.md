@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=703ee5&text=Stage%20Us&height=150&fontSize=60&desc=This%20is%20Our%20Stage&descAlignY=75&descAlign=50" />
+<img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=703ee5&text=Stage%20Us&height=150&fontSize=60&desc=This%20is%20Our%20Stage&descAlignY=75&descAlign=54" />
 
 ## Choi Minseok
 
