@@ -27,13 +27,13 @@ jwt
 gastby
 svelte
 
-### Tool / Platform
+## Tool / Platform
 linux / shell
 aws
 node
 docker
 
-### Database
+## Database
 mysql
 postgresql
 sqlite
