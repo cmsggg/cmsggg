@@ -11,7 +11,7 @@ contact : +82 010-8743-9598
 career : https://stageus.co.kr/files/career.pdf  
 homepage : https://stageus.co.kr  
 blog : https://cono.pro  
-youtube : https://www.youtube.com/channel/UCktIF_yDLyBQEx5_MZuscfg
+youtube : <a href="https://www.youtube.com/channel/UCktIF_yDLyBQEx5_MZuscfg">코딩하는노예</a>
 
 ## Language / Script
 <img src="https://img.shields.io/badge/HTML-E34F26?style=flat&logo=HTML5&logoColor=white"/>  <img src="https://img.shields.io/badge/CSS-1572B6?style=flat&logo=CSS3&logoColor=white"/>  <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat&logo=Javascript&logoColor=white"/>
