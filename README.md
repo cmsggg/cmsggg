@@ -1,4 +1,14 @@
-<img src="https://capsule-render.vercel.app/api?type=Waving&color=auto&height=200&section=header&text=코딩하는노예&fontSize=60&animation=scaleIn&fontColor=ffffff&fontAlign=70&fontAlignY=36" />
+<img src="https://capsule-render.vercel.app/api?
+          type=Waving&
+          color=auto&
+          height=200&
+          section=header&
+          text=코딩하는노예&
+          fontSize=40&
+          animation=scaleIn&
+          fontColor=ffffff&
+          fontAlign=80&
+          fontAlignY=36" />
 
 ## Choi Minseok
 
