@@ -6,8 +6,8 @@ CEO & Leader Developer. Stageus, Inc.
 
 email : cono@stageus.co.kr  
 contact : +82 010-8743-9598  
-site : stageus.co.kr  
 career : https://stageus.co.kr/files/career.pdf  
+homepage : stageus.co.kr  
 blog : empty  
 
 ### Language / Script
