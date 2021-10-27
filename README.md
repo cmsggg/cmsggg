@@ -15,7 +15,7 @@
     Youtube : <a href="https://www.youtube.com/channel/UCktIF_yDLyBQEx5_MZuscfg">코딩하는노예</a>
 </div>
 
-<div style="text-align: center;">
+<div align="center">
     <h3>Language / Script</h3>
     <img src="https://img.shields.io/badge/HTML-E34F26?style=flat&logo=HTML5&logoColor=white"/>
     <img src="https://img.shields.io/badge/CSS-1572B6?style=flat&logo=CSS3&logoColor=white"/>
@@ -29,7 +29,7 @@
     <img src="https://img.shields.io/badge/C Sharp-239120?style=flat&logo=C Sharp&logoColor=white"/>
 </div>
 
-<div style="text-align: center;">
+<div align="center">
     <h3>Framework / Library</h3>
     <img src="https://img.shields.io/badge/Qt-41CD52?style=flat&logo=Qt&logoColor=white"/>
     <img src="https://img.shields.io/badge/Express-000000?style=flat&logo=Express&logoColor=white"/>
@@ -43,7 +43,7 @@
     <img src="https://img.shields.io/badge/Svelte-FF3E00?style=flat&logo=Svelte&logoColor=white"/>  
 </div>
 
-<div style="text-align: center;">
+<div align="center">
     <h3>Tool / Platform</h3>
     <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=Linux&logoColor=white"/>
     <img src="https://img.shields.io/badge/Shell-FFD500?style=flat&logo=Shell&logoColor=white"/>
@@ -53,8 +53,8 @@
     <img src="https://img.shields.io/badge/Android-3DDC84?style=flat&logo=Android&logoColor=white"/>  
 </div>
 
-<div style="text-align: center;">
-    <h3 style="text-align: center;">Database</h3>
+<div align="center">
+    <h3 >Database</h3>
     <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white"/>
     <img src="https://img.shields.io/badge/MariaDB-003545?style=flat&logo=MariaDB&logoColor=white"/>
     <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=PostgreSQL&logoColor=white"/>
