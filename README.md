@@ -6,12 +6,14 @@
 <p>Master of Arts in Computer Science. Inha Univ. Republic of Korea.</p>
 <p>CEO & Leader Developer. Stageus, Inc.</p>
 
-<p>Email : cono@stageus.co.kr</p>
-<p>Contact : +82 010-8743-9598</p>
-<p>Career : https://stageus.co.kr/files/career.pdf</p>
-<p>Homepage : https://stageus.co.kr</p>
-<p>Blog : https://cono.pro</p>
-<p>Youtube : <a href="https://www.youtube.com/channel/UCktIF_yDLyBQEx5_MZuscfg">코딩하는노예</a></p>
+<div>
+    Email : cono@stageus.co.kr
+    Contact : +82 010-8743-9598
+    Career : https://stageus.co.kr/files/career.pdf
+    Homepage : https://stageus.co.kr
+    Blog : https://cono.pro
+    Youtube : <a href="https://www.youtube.com/channel/UCktIF_yDLyBQEx5_MZuscfg">코딩하는노예</a>
+</div>
 
 <div style="text-align: center;">
     <h3>Language / Script</h3>
