@@ -7,11 +7,11 @@
 <p>CEO & Leader Developer. Stageus, Inc.</p>
 
 <div>
-    Email : cono@stageus.co.kr
-    Contact : +82 010-8743-9598
-    Career : https://stageus.co.kr/files/career.pdf
-    Homepage : https://stageus.co.kr
-    Blog : https://cono.pro
+    Email : cono@stageus.co.kr<br>
+    Contact : +82 010-8743-9598<br>
+    Career : https://stageus.co.kr/files/career.pdf<br>
+    Homepage : https://stageus.co.kr<br>
+    Blog : https://cono.pro<br>
     Youtube : <a href="https://www.youtube.com/channel/UCktIF_yDLyBQEx5_MZuscfg">코딩하는노예</a>
 </div>
 
