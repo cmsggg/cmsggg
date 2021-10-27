@@ -4,9 +4,24 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
 </head>
 <body>
+
+    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=4088eb&text=STAGEUS&height=150&fontSize=70&desc=This%20is%20Our%20Stage&descAlignY=75&descAlign=50" />
+
+    # Choi Minseok
+
+    Master of Arts in Computer Science. Inha Univ. Republic of Korea.
+
+    CEO & Leader Developer. Stageus, Inc.
+
+    Email : cono@stageus.co.kr  
+    Contact : +82 010-8743-9598  
+    Career : https://stageus.co.kr/files/career.pdf  
+    Homepage : https://stageus.co.kr  
+    Blog : https://cono.pro  
+    Youtube : <a href="https://www.youtube.com/channel/UCktIF_yDLyBQEx5_MZuscfg">코딩하는노예</a>
+
     <div style="text-align: center;">
         <h3>Language / Script</h3>
         <img src="https://img.shields.io/badge/HTML-E34F26?style=flat&logo=HTML5&logoColor=white"/>
