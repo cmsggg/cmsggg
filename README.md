@@ -3,10 +3,10 @@
 <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=4088eb&text=STAGEUS&height=150&fontSize=70&desc=This%20is%20Our%20Stage&descAlignY=75&descAlign=50" />
 
 <div align="center">
-    <h1>Choi Minseok</h1>
+    <h1>Choi Minseok</h1><br>
     <p>Master of Arts in Computer Science. Inha Univ. Republic of Korea.</p>
     <p>CEO & Leader Developer. Stageus, Inc.</p>
-</div>
+</div><br>
 
 <div align="center">
     Email : cono@stageus.co.kr<br>
@@ -15,8 +15,7 @@
     Homepage : https://stageus.co.kr<br>
     Blog : https://cono.pro<br>
     Youtube : <a href="https://www.youtube.com/channel/UCktIF_yDLyBQEx5_MZuscfg">코딩하는노예</a>
-</div>
-
+</div><br>
 
 <div align="center">
     <h3>Language / Script</h3>
