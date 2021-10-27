@@ -1,10 +1,10 @@
 <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=4088eb&text=STAGEUS&height=150&fontSize=70&desc=This%20is%20Our%20Stage&descAlignY=75&descAlign=50" />
 
-## Choi Minseok
+# Choi Minseok
 
-### Master of Arts in Computer Science. Inha Univ. Republic of Korea.
+Master of Arts in Computer Science. Inha Univ. Republic of Korea.
 
-### CEO & Leader Developer. Stageus, Inc.
+CEO & Leader Developer. Stageus, Inc.
 
 Email : cono@stageus.co.kr  
 Contact : +82 010-8743-9598  
