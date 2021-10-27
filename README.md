@@ -1,26 +1,19 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-</head>
-<body>
 
-    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=4088eb&text=STAGEUS&height=150&fontSize=70&desc=This%20is%20Our%20Stage&descAlignY=75&descAlign=50" />
 
-    # Choi Minseok
+<img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=4088eb&text=STAGEUS&height=150&fontSize=70&desc=This%20is%20Our%20Stage&descAlignY=75&descAlign=50" />
 
-    Master of Arts in Computer Science. Inha Univ. Republic of Korea.
+# Choi Minseok
 
-    CEO & Leader Developer. Stageus, Inc.
+Master of Arts in Computer Science. Inha Univ. Republic of Korea.
 
-    Email : cono@stageus.co.kr  
-    Contact : +82 010-8743-9598  
-    Career : https://stageus.co.kr/files/career.pdf  
-    Homepage : https://stageus.co.kr  
-    Blog : https://cono.pro  
-    Youtube : <a href="https://www.youtube.com/channel/UCktIF_yDLyBQEx5_MZuscfg">코딩하는노예</a>
+CEO & Leader Developer. Stageus, Inc.
+
+Email : cono@stageus.co.kr  
+Contact : +82 010-8743-9598  
+Career : https://stageus.co.kr/files/career.pdf  
+Homepage : https://stageus.co.kr  
+Blog : https://cono.pro  
+Youtube : <a href="https://www.youtube.com/channel/UCktIF_yDLyBQEx5_MZuscfg">코딩하는노예</a>
 
     <div style="text-align: center;">
         <h3>Language / Script</h3>
