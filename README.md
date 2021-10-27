@@ -64,7 +64,9 @@
     <img src="https://img.shields.io/badge/SQLite-003B57?style=flat&logo=SQLite&logoColor=white"/>  
 </div>
 
-### Hardware
-PLC  
-Arduino Uno / Blue / Mini
-Raspberry / Rasbian
+<div align="center">
+    <h3 >Hardware</h3>
+    <img src="https://img.shields.io/badge/PLC-4479A1?style=flat"/>
+    <img src="https://img.shields.io/badge/Arduino Uno / Blue / Mini-4479A1?style=flat"/>
+    <img src="https://img.shields.io/badge/Raspberry / Rasbian-4479A1?style=flat"/>
+</div>
