@@ -27,7 +27,7 @@
     <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white"/>
     <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C++&logoColor=white"/>
     <img src="https://img.shields.io/badge/C Sharp-239120?style=for-the-badge&logo=C Sharp&logoColor=white"/>
-</div>
+</div><br>
 
 <div align="center">
     <h3>Framework / Library</h3>
@@ -41,7 +41,7 @@
     <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON Web Tokens&logoColor=white"/>
     <img src="https://img.shields.io/badge/Gatsby-663399?style=for-the-badge&logo=Gatsby&logoColor=white"/>
     <img src="https://img.shields.io/badge/Svelte-FF3E00?style=for-the-badge&logo=Svelte&logoColor=white"/>  
-</div>
+</div><br>
 
 <div align="center">
     <h3>Tool / Platform</h3>
@@ -51,7 +51,7 @@
     <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white"/>
     <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white"/>
     <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=Android&logoColor=white"/>  
-</div>
+</div><br>
 
 <div align="center">
     <h3 >Database</h3>
@@ -62,11 +62,11 @@
     <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=MongoDB&logoColor=white"/>
     <img src="https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=Elasticsearch&logoColor=white"/>
     <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=SQLite&logoColor=white"/>  
-</div>
+</div><br>
 
 <div align="center">
     <h3 >Hardware</h3>
     <img src="https://img.shields.io/badge/PLC-517A9E?style=for-the-badge&logo=appveyor"/>
     <img src="https://img.shields.io/badge/Arduino Uno / Blue / Mini-00979D?style=for-the-badge&logo=Arduino"/>
     <img src="https://img.shields.io/badge/Raspberry / Raspbian-A22846?style=for-the-badge&logo=Raspberry Pi"/>
-</div>
+</div><br>
