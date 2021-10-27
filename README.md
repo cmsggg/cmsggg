@@ -2,11 +2,13 @@
 
 <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=4088eb&text=STAGEUS&height=150&fontSize=70&desc=This%20is%20Our%20Stage&descAlignY=75&descAlign=50" />
 
-<h1>Choi Minseok</h1>
-<p>Master of Arts in Computer Science. Inha Univ. Republic of Korea.</p>
-<p>CEO & Leader Developer. Stageus, Inc.</p>
+<div align="center">
+    <h1>Choi Minseok</h1>
+    <p>Master of Arts in Computer Science. Inha Univ. Republic of Korea.</p>
+    <p>CEO & Leader Developer. Stageus, Inc.</p>
+</div>
 
-<div>
+<div align="center">
     Email : cono@stageus.co.kr<br>
     Contact : +82 010-8743-9598<br>
     Career : https://stageus.co.kr/files/career.pdf<br>
@@ -63,13 +65,14 @@
     <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=PostgreSQL&logoColor=white"/>
     <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=Redis&logoColor=white"/>
     <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=MongoDB&logoColor=white"/>
+    <br>
     <img src="https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=Elasticsearch&logoColor=white"/>
     <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=SQLite&logoColor=white"/>  
 </div><br>
 
 <div align="center">
     <h3 >Hardware</h3>
-    <img src="https://img.shields.io/badge/PLC-517A9E?style=for-the-badge&logo=appveyor"/>
+    <img src="https://img.shields.io/badge/PLC-517A9E?style=for-the-badge&logo=appveyor&logoColor=white"/>
     <img src="https://img.shields.io/badge/Arduino Uno / Blue / Mini-00979D?style=for-the-badge&logo=Arduino&logoColor=white"/>
     <img src="https://img.shields.io/badge/Raspberry / Raspbian-A22846?style=for-the-badge&logo=Raspberry Pi&logoColor=white"/>
 </div><br>
