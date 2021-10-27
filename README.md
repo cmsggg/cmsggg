@@ -15,6 +15,7 @@
     Youtube : <a href="https://www.youtube.com/channel/UCktIF_yDLyBQEx5_MZuscfg">코딩하는노예</a>
 </div>
 
+
 <div align="center">
     <h3>Language / Script</h3>
     <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=HTML5&logoColor=white"/>
@@ -22,6 +23,7 @@
     <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=Javascript&logoColor=white"/>
     <img src="https://img.shields.io/badge/Typescript-3178C6?style=for-the-badge&logo=Typescript&logoColor=white"/>  
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"/>
+    <br>
     <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white"/>
     <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=Kotlin&logoColor=white"/>
     <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white"/>
@@ -37,6 +39,7 @@
     <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=Redux&logoColor=white"/>
     <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=Sass&logoColor=white"/>
     <img src="https://img.shields.io/badge/Styled Components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white"/>
+    <br>
     <img src="https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=Webpack&logoColor=white"/>
     <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON Web Tokens&logoColor=white"/>
     <img src="https://img.shields.io/badge/Gatsby-663399?style=for-the-badge&logo=Gatsby&logoColor=white"/>
@@ -67,6 +70,6 @@
 <div align="center">
     <h3 >Hardware</h3>
     <img src="https://img.shields.io/badge/PLC-517A9E?style=for-the-badge&logo=appveyor"/>
-    <img src="https://img.shields.io/badge/Arduino Uno / Blue / Mini-00979D?style=for-the-badge&logo=Arduino"/>
-    <img src="https://img.shields.io/badge/Raspberry / Raspbian-A22846?style=for-the-badge&logo=Raspberry Pi"/>
+    <img src="https://img.shields.io/badge/Arduino Uno / Blue / Mini-00979D?style=for-the-badge&logo=Arduino&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Raspberry / Raspbian-A22846?style=for-the-badge&logo=Raspberry Pi&logoColor=white"/>
 </div><br>
