@@ -54,7 +54,7 @@ Youtube : <a href="https://www.youtube.com/channel/UCktIF_yDLyBQEx5_MZuscfg">코
 </div>
 
 <div style="text-align: center;">
-    <h3>Database</h3>
+    <h3 style="text-align: center;">Database</h3>
     <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white"/>
     <img src="https://img.shields.io/badge/MariaDB-003545?style=flat&logo=MariaDB&logoColor=white"/>
     <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=PostgreSQL&logoColor=white"/>
