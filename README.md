@@ -1,6 +1,6 @@
 
 
-<img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=4088eb&text=STAGEUS&height=150&fontSize=80&desc=This%20is%20Our%20Stage&descAlignY=75&descAlign=50" />
+<img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=4088eb&text=STAGEUS&height=150&fontSize=80&desc=This%20is%20Our%20Stage&descAlignY=80&descAlign=50" />
 
 <div align="center">
     <h1>Choi Minseok</h1><br>
