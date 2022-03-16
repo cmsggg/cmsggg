@@ -38,7 +38,7 @@
     <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=Express&logoColor=white"/>
     <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white"/>
     <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=Redux&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=Recoil&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Recoil-764ABC?style=for-the-badge&logo=Redux&logoColor=white"/>
     <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=Sass&logoColor=white"/>
     <img src="https://img.shields.io/badge/CSS Module-1572B6?style=for-the-badge&logo=CSS3&logoColor=white"/>
     <br>
