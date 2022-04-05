@@ -12,9 +12,14 @@
     Email : cono@stageus.co.kr<br>
     Contact : +82 010-8743-9598<br>
     Career : https://stageus.co.kr/file/career.pdf<br>
-    Homepage : https://stageus.co.kr<br>
     Blog : https://cono.pro<br>
     Youtube : <a href="https://www.youtube.com/channel/UCktIF_yDLyBQEx5_MZuscfg">코딩하는노예</a>
+</div><br>
+
+<div align="center">
+    Belong : Stageus, Inc.<br>
+    Homepage : https://stageus.co.kr<br>
+    Github : https://github.com/Stageus<br>
 </div><br>
 
 <div align="center">
