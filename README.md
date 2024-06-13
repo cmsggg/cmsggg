@@ -5,15 +5,14 @@
 <div align="center">
     <h1>Choi Minseok</h1><br>
     <p>Master of Arts in Computer Science. Inha Univ. Republic of Korea.</p>
-    <p>CEO & Leader Developer. Stageus, Inc.</p>
+    <p>CEO. Stageus, Inc.</p>
 </div><br>
 
 <div align="center">
     Email : cono@stageus.co.kr<br>
-    Contact : +82 010-8743-9598<br>
+    Contact : +82 010-9911-9598<br>
     Career : https://stageus.co.kr/file/career.pdf<br>
     Blog : https://cono.pro<br>
-    Youtube : <a href="https://www.youtube.com/channel/UCTFksiURi0SZ9lSACCBl8GQ">스테이지어스</a>
 </div><br>
 
 <div align="center">
