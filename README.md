@@ -45,8 +45,8 @@
     <img src="https://img.shields.io/badge/JSP-FF160B?style=for-the-badge&logo=openjdk&logoColor=white"/>
     <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logoColor=white"/>
     <br/>
-    <img src="https://img.shields.io/badge/express-#000000?style=for-the-badge&logo=express&logoColor=white"/>
-    <img src="https://img.shields.io/badge/jsonwebtokens-FBBA00?style=for-the-badge&logo=jsonwebtokens&logoColor=white"/>
+    <img src="https://img.shields.io/badge/express-000000?style=for-the-badge&logo=express&logoColor=white"/>
+    <img src="https://img.shields.io/badge/JWT-FBBA00?style=for-the-badge&logo=jsonwebtokens&logoColor=white"/>
     <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
     <img src="https://img.shields.io/badge/mariadb-003545?style=for-the-badge&logo=mariadb&logoColor=white"/>
     <img src="https://img.shields.io/badge/sqlite-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/>
