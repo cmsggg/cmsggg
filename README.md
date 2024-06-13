@@ -21,6 +21,8 @@
     Github : https://github.com/Stageus<br>
 </div><br>
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
+
 <div align="center">
     <h3>Web Frontend</h3>
     <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
