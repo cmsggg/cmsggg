@@ -21,7 +21,9 @@
     Github : https://github.com/Stageus<br>
 </div><br>
 
+<div align="center">
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
+</div>
 
 <div align="center">
     <h3>Web Frontend</h3>
