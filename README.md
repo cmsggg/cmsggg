@@ -22,6 +22,36 @@
 </div><br>
 
 <div align="center">
+    <h3>Web Frontend</h3>
+</div>
+
+<div align="center">
+    <h3>Backend</h3>
+</div>
+
+<div align="center">
+    <h3>App</h3>
+</div>
+
+<div align="center">
+    <h3>Service</h3>
+    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Linux-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Shell-FFD500?style=for-the-badge&logo=shell&logoColor=white"/>
+    <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white"/>
+    <img src="https://img.shields.io/badge/PLC-6851FF?style=for-the-badge&logo=magic&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Raspberry-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Arduino-00878F?style=for-the-badge&logo=arduino&logoColor=white"/>
+</div>
+
+<div align="center">
+    <h3>Tool</h3>
+    <img src="https://img.shields.io/badge/Notion-?style=for-the-badge&logo=notion&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Figma-?style=for-the-badge&logo=figma&logoColor=white"/>
+</div>
+
+<div align="center">
     <h3>Language / Script</h3>
     <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=HTML5&logoColor=white"/>
     <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=CSS3&logoColor=white"/>
